@@ -58,7 +58,8 @@
   RiscVSbiLib|MdePkg/Library/BaseRiscVSbiLib/BaseRiscVSbiLib.inf
   SafeIntLib|MdePkg/Library/BaseSafeIntLib/BaseSafeIntLib.inf
   DxeRiscvMpxyLib|MdePkg/Library/DxeRiscvMpxyLib/DxeRiscvMpxy.inf
-  SerialPortLib|MdeModulePkg/Library/BaseSerialPortLib16550/BaseSerialPortLib16550.inf
+  CpuLib|MdePkg/Library/BaseCpuLib/BaseCpuLib.inf
+  SerialPortLib|StandaloneMmPkg/Library/BaseSerialPortLibRiscVSbiLibMm/BaseSerialPortLibRiscVSbiLib.inf
 
   #
   # Entry point
